@@ -1,0 +1,38 @@
+body {
+    /*background: url("DC.jpg") no-repeat top right;
+    background-color: silver;
+    background: url(MarvelDC.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  */
+  background:#000;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 40;
+    text-align: center;
+    margin-top: auto;
+    color: white;
+}
+h2, h3 {
+    font-family: serif;
+    font-size: 30;
+    color: white;
+}
+section.b {
+    vertical-align: text-top;
+}
+section.a{
+float:left;
+  width:49%;
+
+}
+section.b {
+float:right;
+  width:49%;
+}
+ol.a, ol.b {
+    color: white;
+}
